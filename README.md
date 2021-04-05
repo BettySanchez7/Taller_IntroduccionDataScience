@@ -4,3 +4,4 @@ Hola hola, en este repositorio vas a encontrar el material del taller de introdu
 * Presentación
 * Datos
 * Cuaderno de Jupyter Notebook
+* Recursos para comenzar! 
