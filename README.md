@@ -3,5 +3,5 @@ Hola hola, en este repositorio vas a encontrar el material del taller de introdu
 
 * [Presentación](https://github.com/BettySanchez7/Taller_IntroduccionDataScience/blob/main/documentos/AZURE_NOTEBOOKS.pdf)
 * [Datos](https://github.com/BettySanchez7/Taller_IntroduccionDataScience/blob/main/documentos/GlobalAzureTaller.pdf)
-* Cuaderno de Jupyter Notebook
-* Recursos para comenzar! 
+* [Cuaderno de Jupyter Notebook](https://github.com/BettySanchez7/Taller_IntroduccionDataScience/blob/main/TallerDataScience.ipynb)
+* [Recursos para comenzar!](https://github.com/BettySanchez7/Taller_IntroduccionDataScience/blob/main/Recursos.md)
