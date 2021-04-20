@@ -16,6 +16,7 @@ DATACAMP: https://www.datacamp.com/
 
 FREECODECAMP: https://www.freecodecamp.org/learn
 
-CURSOS GRATIS:
+BECAS SANTANDER (DATA SCIENCE): https://www.becas-santander.com/es/program/search 
 
-BECA EN MÉXICO --> SANTANDER DATA SCIENCE 
+
+Existen multiples y variadas opciones, tú decides. (:
